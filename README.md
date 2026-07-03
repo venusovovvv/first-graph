@@ -1,7 +1,6 @@
+Code snippet
 graph TD
-    A[Raw Financial Data] --> B(AI Processing Engine)
-    B --> C{Analysis Layer}
-    C --> D[Trend Forecasting]
-    C --> E[Risk & Fraud Detection]
-    D --> F[Interactive Dashboard]
-    E --> F
+    A[AI Financial Analysis] --> B[1. Data Collection]
+    B --> C[2. Machine Learning Processing]
+    C --> D[3. Risk & Trend Detection]
+    D --> E[4. Final Dashboard Report]
